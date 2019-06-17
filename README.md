@@ -91,3 +91,11 @@ $ bin/rails s
 <img width="1280" alt="index" src="https://user-images.githubusercontent.com/38872854/59580219-361c4180-910b-11e9-838c-44858bca0372.png">
 
 🎉🎉🎉🎉🎉🎉
+
+Vueと導入時点での差をあまり感じなかったが、
+以下 rails generate コマンドがあるので開発速度はこちらの方が早そう。
+```sh
+React:
+  react:component
+  react:install
+```
