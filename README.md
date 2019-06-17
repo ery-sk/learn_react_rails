@@ -31,7 +31,7 @@ end
 ```
 ```sh
 # 確認
-rails s
+bin/rails s
 ```
 
 ## 適当なjQueryを使う
@@ -52,7 +52,7 @@ $ ->
 ```
 ```sh
 # 確認
-rails s
+bin/rails s
 ```
 
 ## WebpackerとReactの導入
@@ -88,5 +88,6 @@ require('./hello_react.jsx')
 $ bin/webpack-dev-server
 $ bin/rails s
 ```
+<img width="1280" alt="index" src="https://user-images.githubusercontent.com/38872854/59580219-361c4180-910b-11e9-838c-44858bca0372.png">
 
 🎉🎉🎉🎉🎉🎉
